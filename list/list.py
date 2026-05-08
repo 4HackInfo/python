@@ -13,7 +13,7 @@ thislist = ["apple", "banana", "cherry"]
 print(thislist) #  ["apple", "banana", "cherry"]
 
 
-# <List Items> - access by index [1]
+# <1List Items> - access by index [1]
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1]) # banana
 

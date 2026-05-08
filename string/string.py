@@ -1,5 +1,5 @@
 
-# <c>
+#1 <c>
 print("hello world".capitalize()) # Hello world
 print("hello".casefold())      # hello
 print("hello".center(10, "-")) # --hello---

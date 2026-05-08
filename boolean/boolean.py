@@ -12,7 +12,7 @@ if b > a:
 else:
   print("b is not greater than a")
 
-# <The bool() function allows you to evaluate any value, and give you True or False in return>
+# <1The bool() function allows you to evaluate any value, and give you True or False in return>
 
 print(bool("Hello")) # True -  not empty have character
 print(bool(15))      # True -  have a value except 0 means false

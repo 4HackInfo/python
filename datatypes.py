@@ -1,6 +1,6 @@
 
 xb = "Hello World"	# str	
-# x = 20	            # int	
+#1 x = 20	            # int	
 # x = 20.5	        # float	
 # x = 1j	            # complex	 
 # x = ["apple", "banana", "cherry"]	# list	
